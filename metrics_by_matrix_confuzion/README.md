@@ -12,7 +12,7 @@ Com o modelo treinado foi obtida a Matriz de Confusão proveniente do mesmo e en
 - Precisão: TP / (TP + FP)
 - Recall: TP / (TP + FN)
 - Especificidade: TN / (TN + FP)
-- F1 Score: (2 _ Precision _ Recall) / (Precision + Recall)
+- F1 Score: (2 * Precision * Recall) / (Precision + Recall)
 
 Ao fim do arquivo é feito um comparativo entre os valores obtidos manualmente, calculados pela matriz de confusão com as formulas acima, e os valores obtidos de métodos já implementados nas bibliotecas _scikit-learn_ e _imbalanced-learn_.
 
