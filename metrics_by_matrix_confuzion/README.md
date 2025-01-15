@@ -4,7 +4,7 @@ Este repositório foi criado para explorar a obtenção das métricas de avalia�
 
 ## Sobre o Projeto
 
-O código feito para essa atividade está disponível no arquivo [metrics_by_matrix_confuzion.ipynb](/metrics_by_matrix_confuzion.ipynb). Nele foi implementado uma rede neural classificadora com 3 camadas utilizando o _TensorFlow_ e o dataset do _MNIST_, enquanto a biblioteca _Scikit-learn_ foi utilizada para se obter a Matriz de Confusão.
+O código feito para essa atividade está disponível no arquivo [metrics_by_matrix_confuzion.ipynb](/./metrics_by_matrix_confuzion/metrics_by_matrix_confuzion.ipynb). Nele foi implementado uma rede neural classificadora com 3 camadas utilizando o _TensorFlow_ e o dataset do _MNIST_, enquanto a biblioteca _Scikit-learn_ foi utilizada para se obter a Matriz de Confusão.
 
 Com o modelo treinado foi obtida a Matriz de Confusão proveniente do mesmo e então as métricas de Acurácia, Precisão, Recall, Especificidade e F-Score. Sendo calculados pelas formulas:
 

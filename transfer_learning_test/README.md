@@ -4,7 +4,7 @@ Este repositório foi criado para explorar a técnica de **Transfer Learning** u
 
 ## Sobre o Projeto
 
-O código utilizado para o treinamento está disponível no arquivo [transfer_learning_test.ipynb](/transfer_learning_test.ipynb). Ele implementa o treinamento de uma **Rede Neural Artificial (RNA)** para classificar imagens de gatos e cachorros, utilizando a arquitetura **VGG16**.
+O código utilizado para o treinamento está disponível no arquivo [transfer_learning_test.ipynb](/./transfer_learning_test/transfer_learning_test.ipynb). Ele implementa o treinamento de uma **Rede Neural Artificial (RNA)** para classificar imagens de gatos e cachorros, utilizando a arquitetura **VGG16**.
 
 A técnica de Transfer Learning foi aplicada reaproveitando os pesos pré-treinados da rede no dataset [ImageNet](https://www.image-net.org).
 
