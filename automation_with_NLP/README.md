@@ -1,4 +1,4 @@
-# Assistente Virtual Controlado por Voz -- Assis
+# Assistente Virtual Controlado por Voz - Assis
 
 Sistema de assistência virtual que automatiza alguns processos por meio de pedidos falados pelo usuário.
 

@@ -1,7 +1,7 @@
 # 🎓 Desafios BairesDev - Machine Learning Practitioner (DIO)
 
 [![DIO Badge](https://img.shields.io/badge/DIO-Machine%20Learning-blue)](https://www.dio.me)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)]()
+[![Status](https://img.shields.io/badge/Status-Concluído-green)]()
 
 Repositório contendo as soluções dos projetos práticos desenvolvidos durante a trilha de ensino **BairesDev - Machine Learning Practitioner** da plataforma [DIO](https://www.dio.me).
 
@@ -15,6 +15,7 @@ Repositório contendo as soluções dos projetos práticos desenvolvidos durante
 | [Rede de Decção YOLO](./detection_with_YOLO/)                      | Explorando o uso da técnica de **Detecção** utilizando a rede detectora **YOLOv3**.                                    |
 | [Detecção de Faces](./face_detection_test/)                        | Sistema de detecção e classificação das faces das pessoas em imagens.                                                  |
 | [Recomendação por Imagens](./recommendation_by_image/)             | Sistema de recomendação de produtos baseado em similaridade visual.                                                    |
+| [Assistente Virtual Controlado por Voz](./automation_with_NLP/)    | Sistema de assistência virtual que automatiza alguns processos por meio de pedidos falados pelo usuário.               |
 
 Cada projeto possui uma descrição mais detalhada no README correspondente.
 
@@ -33,14 +34,6 @@ Cada projeto possui uma descrição mais detalhada no README correspondente.
 - Cada projeto inclui documentação detalhada e comentários explicativos
 - Os notebooks contêm análises exploratórias e visualizações dos resultados
 - Códigos implementados seguindo boas práticas de programação
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para:
-
-- Reportar bugs
-- Sugerir melhorias
-- Propor novos projetos
 
 ---
 
