@@ -1,10 +1,10 @@
-# Recomendação de Produtos Baseada em Imagens
+# Assistente Virtual Controlado por Voz -- Assis
 
-Sistema de assistencia virtual que automatiza alguns processos por meio de pedidos falados pelo usuário.
+Sistema de assistência virtual que automatiza alguns processos por meio de pedidos falados pelo usuário.
 
 ## 🎯 Sobre o Projeto
 
-Este projeto implementa um assistente virtual, chamada Assis, que executa ações por meio da fala e responde ao usário. O sistema é capaz de executar algumas ações pre programadas.
+Este projeto implementa um assistente virtual, chamada Assis, que executa ações por meio da fala e responde ao usuário. O sistema é capaz de executar algumas ações pre programadas.
 
 O foco do projeto era a utilização do _Processamento de Linguagem Natural (PLN)_ aplicando-o em um sistema real. O PLN é feito pelas bibliotecas **Speech Recognition** e **Edge TTS**.
 
@@ -42,7 +42,14 @@ cd challenges_BairesDev/automation_with_NLP/
 pip install -r requirements.txt
 ```
 
-4. Execute o código no arquivo .py:
+4. Como é feito o uso da biblioteca Pydub para reprodução do áudio é necessário instalar o [FFmpeg](https://ffmpeg.org/download.html). Para instala-lo no Windows siga [esse tutorial](https://pt.wikihow.com/Instalar-o-FFmpeg-no-Windows). Já no Linux/MacOS, utilize os seguintes comandos no terminal:
+
+```bash
+sudo apt install ffmpeg  # Debian/Ubuntu
+brew install ffmpeg      # macOS
+```
+
+5. Execute o código no arquivo .py:
 
 ```bash
 python assis.py
